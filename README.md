@@ -1,24 +1,3 @@
-# README
+Grape practice
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Ref: [Grape on Rails 實戰 101](https://legacy.gitbook.com/book/niclin/grape-on-rails-101/details)
